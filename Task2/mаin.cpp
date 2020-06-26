@@ -23,7 +23,7 @@ int main ()
   cout << "-------------------------------------------------------------" << endl;
   cout << "Penza state university" << endl;
   cout << "Systems and technologies information security" << endl;
-  cout << "Created by Gleb Akimov" << endl;
+  cout << "Created by Kirill Kolodkin" << endl;
   cout << "19PT2 group, 2020" << endl;
 
   unsigned op, cip;
